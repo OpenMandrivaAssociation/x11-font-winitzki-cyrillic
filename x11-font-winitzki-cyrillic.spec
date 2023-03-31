@@ -1,6 +1,6 @@
 Name: x11-font-winitzki-cyrillic
 Version: 1.0.4
-Release: 1
+Release: 2
 Summary: Xorg X11 font winitzki-cyrillic
 Group: Development/X11
 URL: https://xorg.freedesktop.org
